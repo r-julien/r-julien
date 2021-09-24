@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @r-julien
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning WebRTC
+- 📫 How to reach me --> https://www.linkedin.com/in/julien-rousseau-78864996
